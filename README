@@ -1,5 +1,4 @@
-This program was also created for Harvard's CS50x.
-It is an arithmetic puzzle.
+This is an arithmetic puzzle.
 The .txt files provide the steps needed to win 3x3 and 4x4 puzzle. You can pass them as input to your programm, in order to solve 
 itself.
 Run the program this way: ./fifteen 3 < path/3x3.txt  (or 4x4.txt WHERE path is the path with vinegere.c and the txt files)
