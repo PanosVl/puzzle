@@ -6,7 +6,7 @@ The .txt files provide the steps needed to win 3x3 and 4x4 puzzle.
 
 You can pass them as input to your programm, in order to solve itself automatically.
 
-##To run the program: 
+## To run the program: 
 
 `./fifteen 3 < YOUR_PATH/3x3.txt` for the 3x3 puzzle
 `./fifteen 3 < YOUR_PATH/4x4.txt` for the 4x4 puzzle
